@@ -1,0 +1,11 @@
+.wrapper {
+    width: 100%;
+    height: var(--default-layout-header-height);
+    display: flex;
+    justify-content: center;
+    box-shadow: rgba(0, 0, 0, 0.12) 0px 1px 1px;
+}
+.content {
+    width: var(--default-layout-width);
+    height: 100%;
+}
